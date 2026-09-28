@@ -1,0 +1,19 @@
+.ch-dd{position:relative;display:flex;align-items:center}
+.ch-dd-btn{display:inline-flex;align-items:center;gap:.3rem;font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer;transition:color .15s}
+.ch-dd-btn:hover,.ch-dd:focus-within .ch-dd-btn{color:#fff}
+.ch-dd .ch-chev{width:14px;height:14px;transition:transform .2s}
+.ch-dd:hover .ch-chev,.ch-dd:focus-within .ch-chev{transform:rotate(180deg)}
+.ch-dd-panel{position:absolute;top:100%;right:-1rem;padding-top:.75rem;z-index:40;opacity:0;visibility:hidden;transform:translateY(-4px);transition:opacity .18s,transform .18s,visibility .18s}
+.ch-dd:hover .ch-dd-panel,.ch-dd:focus-within .ch-dd-panel{opacity:1;visibility:visible;transform:none}
+.ch-dd-card{min-width:14rem;display:flex;flex-direction:column;padding:.4rem;border-radius:1rem;background:rgba(18,16,24,.96);border:1px solid rgba(255,255,255,.14);box-shadow:0 24px 50px -12px rgba(0,0,0,.6);backdrop-filter:blur(8px)}
+.ch-dd-link{display:block;padding:.6rem .8rem;border-radius:.65rem;color:rgba(255,255,255,.75);white-space:nowrap;transition:background .15s,color .15s}
+.ch-dd-link:hover,.ch-dd-link:focus-visible{background:rgba(255,255,255,.08);color:#fff}
+.ch-mi{border-bottom:1px solid rgba(255,255,255,.1)}
+.ch-mi-sum{list-style:none;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:1rem 0;cursor:pointer;font-family:var(--font-display);font-size:1.875rem;line-height:2.25rem;font-weight:800;letter-spacing:-.025em}
+.ch-mi-sum::-webkit-details-marker{display:none}
+.ch-mi-sub{display:block;margin-top:.25rem;font-family:Inter,ui-sans-serif,system-ui,sans-serif;font-size:.8rem;line-height:1.2;font-weight:500;letter-spacing:0;color:rgba(255,255,255,.5)}
+.ch-mi .ch-chev{width:24px;height:24px;flex-shrink:0;color:rgba(255,255,255,.4);transition:transform .2s}
+.ch-mi[open] .ch-chev{transform:rotate(180deg);color:#fff}
+.ch-mi-list{display:flex;flex-direction:column;padding:0 0 1rem .25rem}
+.ch-mi-link{display:block;padding:.65rem 0 .65rem 1rem;border-left:2px solid rgba(255,255,255,.15);font-size:1.125rem;font-weight:600;color:rgba(255,255,255,.8);transition:color .15s,border-color .15s}
+.ch-mi-link:hover,.ch-mi-link:focus-visible{color:#fff;border-left-color:#ec4899}
