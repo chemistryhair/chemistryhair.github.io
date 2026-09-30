@@ -110,6 +110,7 @@
     "Half head": "Pół głowy",
     "Full head": "Cała głowa",
     "Root to tips, with blow-dry. Add a haircut to any colour: €35. Bond builder from €25.": "Od nasady po końce, z modelowaniem. Strzyżenie do każdej koloryzacji: 35 €. Bond builder od 25 €.",
+    "Root to tips, with blow-dry. Add a haircut to any colour: €35. Bond builder from €25. *Caity prices apply only when your full service is with Caity.": "Od nasady po końce, z modelowaniem. Strzyżenie do każdej koloryzacji: 35 €. Bond builder od 25 €. *Ceny z Caity obowiązują tylko wtedy, gdy całą usługę wykonuje Caity.",
     "Tone-on-tone refresh. Not suitable for covering grey or lifting. Add a haircut to any colour: €35. Bond builder from €25.": "Odświeżenie koloru ton w ton. Nie pokrywa siwych włosów i nie rozjaśnia. Strzyżenie do każdej koloryzacji: 35 €. Bond builder od 25 €.",
     "A made-to-measure blonde for any hair type — blended light and depth that grows out gently, with no harsh regrowth lines. Bond builder from €25. Roots from €25.": "Blond szyty na miarę dla każdego rodzaju włosów — płynnie połączone światło i głębia, które łagodnie odrastają, bez wyraźnej linii odrostu. Bond builder od 25 €. Odrost od 25 €.",
     "Add a haircut: €35. Back to back from €30. Bond builder from €25. Roots from €25.": "Strzyżenie: 35 €. Back to back od 30 €. Bond builder od 25 €. Odrost od 25 €.",
