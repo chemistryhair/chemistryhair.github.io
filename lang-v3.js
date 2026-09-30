@@ -97,6 +97,7 @@
     "Prices depend on your hair's length and thickness. Every appointment includes a consultation, and your exact price is confirmed before we start.": "Ceny zależą od długości i gęstości włosów. Każda wizyta obejmuje konsultację, a dokładną cenę potwierdzamy przed rozpoczęciem.",
     "With Caity": "Z Caity",
     "Includes wash and blow-dry. Curly blow-dry on request, extra charge.": "W cenie mycie i modelowanie. Modelowanie loków na życzenie, za dodatkową opłatą.",
+    "Ends trim (with blow-dry)": "Podcięcie końcówek (z modelowaniem)",
     "Short": "Krótkie",
     "Medium": "Średnie",
     "Long": "Długie",
